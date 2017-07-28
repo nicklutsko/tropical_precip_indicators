@@ -2,7 +2,7 @@
 
 Script for comparing correlations of indicators between CMIP, AMIP and AQUA simulations
 
-Copyright Nick Lutsko and Max Popp 2017
+Nick Lutsko and Max Popp 2017
 
 """
 from scipy.io import netcdf
